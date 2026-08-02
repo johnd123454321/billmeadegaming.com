@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect x="2" y="2" width="60" height="60" rx="14" fill="#0c130e" stroke="#8a742f" stroke-width="3"/>
-  <polyline points="12,44 24,35 32,39 43,26 51,19" fill="none" stroke="#5fae86" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="51" cy="19" r="6" fill="#d6b96a"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#0c130e" stroke="#8a742f" stroke-width="3"/>
+  <text x="32" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#d6b96a" text-anchor="middle">B</text>
 </svg>

@@ -63,7 +63,6 @@ a:focus-visible, button:focus-visible {
   font-size: 1.25rem; letter-spacing: 0.04em;
 }
 .brand:hover { color: var(--ink); }
-.brand .mark { width: 34px; height: 34px; flex: none; }
 .brand .accent { color: var(--green); }
 .site-nav { display: flex; gap: 6px; flex-wrap: wrap; }
 .site-nav a {

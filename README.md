@@ -87,6 +87,6 @@ Pages redeploys automatically in about a minute.
   listing fields (replacing the temporary chatgpt.site URLs):
   - `https://billmeadegaming.com/games/federal-reserve-simulator/support/`
   - `https://billmeadegaming.com/games/federal-reserve-simulator/privacy/`
-- Brand images (og image, favicons, FRS crops) were generated from game art;
-  regenerate with the PIL script if art changes (ask Claude for
-  `make_brand_images.py`).
+- No invented studio branding: the favicon is a plain typographic "B", and
+  social-share (og) images use the games' real capsule art. The FRS card/hero
+  crops come from the game's own resources.
