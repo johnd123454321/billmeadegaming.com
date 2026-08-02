@@ -124,6 +124,7 @@ a:focus-visible, button:focus-visible {
   box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35); color: var(--ink);
 }
 .game-card img { aspect-ratio: 616 / 353; object-fit: cover; width: 100%; }
+.game-card img.wide { aspect-ratio: 460 / 215; }
 .game-card .body { padding: 20px 22px 24px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
 .game-card h3 { font-family: var(--serif); font-size: 1.35rem; margin: 0; }
 .game-card p { margin: 0; color: var(--muted); font-size: 0.98rem; flex: 1; }
